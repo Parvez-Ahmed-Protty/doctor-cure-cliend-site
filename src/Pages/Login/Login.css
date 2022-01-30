@@ -1,0 +1,15 @@
+.bg-contact {
+  background-color: #122852;
+  color: #fff;
+}
+.form {
+  font-size: 13px;
+}
+.w-btn {
+  width: 48%;
+  margin-right: 2px;
+}
+.register {
+  color: #122852;
+  text-decoration: none;
+}
