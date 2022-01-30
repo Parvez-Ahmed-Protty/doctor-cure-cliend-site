@@ -1,0 +1,23 @@
+a {
+  color: #fff;
+}
+.FaFacebookF:hover {
+  transition: 1s;
+  color: #0a82ed;
+  cursor: pointer;
+}
+.FaYoutube:hover {
+  transition: 1s;
+  color: #ff0000;
+  cursor: pointer;
+}
+.FaLinkedinIn:hover {
+  transition: 1s;
+  color: #0a82ed;
+  cursor: pointer;
+}
+.FaTwitter:hover {
+  transition: 1s;
+  color: #5da9dd;
+  cursor: pointer;
+}

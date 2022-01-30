@@ -1,0 +1,8 @@
+.header-section {
+  height: 100vh;
+  background-image: url("https://i.ibb.co/P9tbbRJ/banner.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
