@@ -1,0 +1,9 @@
+.footer {
+  background-color: #112851;
+  color: #fff;
+}
+.icon-hover:hover {
+  margin-left: 10px;
+  transition: 1s;
+  cursor: pointer;
+}
